@@ -1,0 +1,4 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/68GHz/Jornada-Viva
+	branch = IA_Agents
